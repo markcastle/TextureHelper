@@ -1,29 +1,12 @@
 # TextureHelper #
+This is a simple Java Unity plugin for Android that I'm building as per the tutorial I'm creating at:
+https://markcastle.com/steps-to-create-a-native-android-plugin-for-unity-in-java-using-android-studio-part-1-of-2/
+https://markcastle.com/steps-to-create-a-native-android-plugin-for-unity-in-java-using-android-studio-part-2-of-2/
+I am aiming to show to to create native Unity plugins in Android Studio / Java
 
-This README would normally document whatever steps are necessary to get your application up and running.
+The Android Studio Java project that we create in part 1 is in /Src
+The Unity3d project where I show how to use the plugin is in /Unity/JavaUnityPlugin
 
-### What is this repository for? ###
+PLease feel free to let me know if there are better ways of doing any of this.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Cheers - Mark
